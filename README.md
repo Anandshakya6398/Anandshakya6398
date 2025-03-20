@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anand Shakya</h1>
+<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <p>"It always seems impossible until it's done."</p>
 <p>I have learned lots of Advanced skills in web development like HTML, CSS, Javascript, NodeJS, React, Nextjs...</p>
