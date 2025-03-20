@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anand Shakya
 
-# Hey!! Warriors
+
 
 "It always seems impossible until it's done."
 
