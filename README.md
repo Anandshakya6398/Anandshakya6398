@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">A passionate FullStack developer with specializing in Frontend development</h3>
+<h3 align="center">A passionate <b>FullStack developer</b> with specializing in Frontend development</h3>
 <p>"It always seems impossible until it's done."</p>
 <p>I have learned lots of Advanced skills in web development like HTML, CSS, Tailwind CSS, Javascript, NodeJS, MongoDB, ExpressJs, ShadCN UI, React, Nextjs</p>
 <p>Now I am A passionate frontend developer with a flair for creating elegant and user centric solutions within the given deadline.</p>
