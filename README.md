@@ -5,7 +5,7 @@
 <p>I have learned lots of Advanced skills in web development like HTML, CSS, Tailwind CSS, Javascript, NodeJS, MongoDB, ExpressJs, ShadCN UI, React, Nextjs</p>
 <p>Now I am A passionate frontend developer with a flair for creating elegant and user centric solutions within the given deadline.</p>
 
-- 👨‍💻 my some projects are available at [https://anandkumar-portfoilo.netlify.app](https://anandshakya.com)
+- 👨‍💻 my some projects are available at [https://anandshakya.com](https://anandshakya.com)
 
 - 📫 How to reach me **anandshakya6398@gmail.com**
 
